@@ -1,0 +1,22 @@
+# Kompilierte Java-Klassendateien & Build-Ausgaben
+stl-viewer/bin/
+*.class
+
+# IDE & Editor-Dateien
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Betriebssystem-spezifische Dateien
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Logs & temporäre Dateien
+*.log
+*.tmp
+scratch/
